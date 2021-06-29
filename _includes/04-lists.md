@@ -1,5 +1,5 @@
 - A good developer
-  -Know python java and C   
+  - Know python java and C   
 - Work in a team
 - Basic knowledge of Git and GitHub
 
